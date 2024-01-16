@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="8" height="12"></rect>
+    </defs>
+    <g id="首页加入口" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KAS模块添加入口" transform="translate(-873.000000, -281.000000)">
+            <g id="编组" transform="translate(575.000000, 278.000000)">
+                <g id="路径" transform="translate(298.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <path d="M6.94974747,5.46446609 C7.34027176,5.85499039 7.34027176,6.48815536 6.94974747,6.87867966 L2.70710678,11.1213203 C2.31658249,11.5118446 1.68341751,11.5118446 1.29289322,11.1213203 C0.902368927,10.7307961 0.902368927,10.0976311 1.29289322,9.70710678 L4.82842712,6.17157288 L1.29289322,2.63603897 C0.930263519,2.27340927 0.904361398,1.70156388 1.21518685,1.30904622 L1.29289322,1.22182541 C1.68341751,0.831301115 2.31658249,0.831301115 2.70710678,1.22182541 L6.94974747,5.46446609 Z" fill="#1B56FF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
